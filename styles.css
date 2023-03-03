@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.carousel-inner{
+	background: gray;
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 40px;
+}
